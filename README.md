@@ -42,7 +42,8 @@ Fully managed cloud services that provide vector storage, indexing, and similari
 - **[AlloyDB AI](https://cloud.google.com/alloydb?hl=en)** `Official` — Google Cloud managed PostgreSQL with vector search and AI integrations.
 - **[SingleStore](https://www.singlestore.com/)** `Official` — Distributed SQL database with SingleStore-V integrated vector search.
 - **[MyScale](https://myscale.com/)** `Official` — ClickHouse-based managed vector database for structured + vector data.
-
+- **[Oracle Autonomous AI Database](https://github.com/oracle/vecdb-python-sdk)** `Official` — Cloud managed Oracle AI Database with vector database Python SDK.
+  - Install: `pip install oracle-vecdb`
 ---
 
 ## Self-Hosted Vector Databases
